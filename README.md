@@ -39,21 +39,22 @@ cidade-limpa/
 ## 📦 Instalação
 Clone o repositório:
 
-bash
+````bash
 Copiar código
 git clone https://github.com/seu-usuario/cidade-limpa.git
 cd cidade-limpa
 Instale as dependências:
+````
 
-bash
+````bash
 Copiar código
 npm install
 Configure o Firebase no arquivo src/environments/environment.ts.
+````
 
 Inicie o aplicativo:
 
-bash
+````bash
 Copiar código
 ionic serve
-📝 Licença
-Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
+````
