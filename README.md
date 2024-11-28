@@ -4,11 +4,9 @@ Um aplicativo desenvolvido em **Ionic Angular** com integração ao **Firestore*
 
 ## 🚀 Funcionalidades
 
-- **Cadastro de usuários:** Permite que os moradores se registrem e façam login.  
-- **Registro de denúncias:** Adicione informações sobre locais de descarte irregular, incluindo imagens e descrições.  
-- **Consulta de pontos de coleta:** Visualize locais de coleta de resíduos na sua região.  
-- **Atualização e exclusão de dados:** Edite ou exclua os registros criados.  
-- **Geolocalização:** Utilize mapas interativos (via biblioteca Leaflet) para localizar pontos de coleta e descarte.
+- **Cadastro de endereços:** Todos usuários podem cadastrar endereços como um forma de protesto, reclamação, sugestão, e dicas de melhorias. 
+- **Cadastro de nomes:** Os moradores podem sugireir mudanças/reclamações anonimamente ou revelar seus nomes. 
+- **Cadastrar seus relatos:** Os moradoes conseguem ter espaço para opinar sobre suas comunidades, cidades, faculdades, e demais ambientes públicos. Isso proporciona uma
 
 ## 🎯 Objetivo
 
@@ -17,8 +15,8 @@ Ajudar a população a monitorar o descarte de resíduos e melhorar a gestão de
 ## 🛠️ Tecnologias Utilizadas
 
 - **Framework:** Ionic Angular  
-- **Banco de Dados:** Firestore (Firebase)  
-- **Geolocalização:** Biblioteca Leaflet  
+- **Banco de Dados:** Firestore (Firebase)
+- **Principais linguagens de programação:** Typescript, Javascript, HMTL, CSS, JSON. 
 - **Plataforma:** Aplicativo para dispositivos móveis  
 
 ## 🗂️ Estrutura do Projeto
